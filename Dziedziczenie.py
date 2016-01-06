@@ -18,3 +18,4 @@ b = B()
 print(b)
 """ zmiany"""
 """ kolejne zmiany"""
+"""blabla"""
