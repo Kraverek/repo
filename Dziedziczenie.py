@@ -16,4 +16,4 @@ class B(A):
 
 b = B()
 print(b)
-""" zmiany lub nie"""
+""" zmiany"""
