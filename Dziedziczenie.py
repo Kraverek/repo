@@ -17,3 +17,4 @@ class B(A):
 b = B()
 print(b)
 """ zmiany"""
+""" kolejne zmiany"""
