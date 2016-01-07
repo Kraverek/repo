@@ -65,4 +65,5 @@ s.predkosc(160)
 print (s.predkosc)
 print ("km/h")
 
-"""cos"""
+"""co"""
+""" i coscos"""
